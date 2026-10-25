@@ -14,13 +14,15 @@ Starter repository for **Lab 4: Branches, Pull Requests and Merge Conflicts**.
 
 Open the [module starter repository](https://github.com/wrwei/sccm4910-teamwork)
 and **fork** it into your own GitHub account, then clone your fork.
-You work in your own fork and exchange reviews with a partner;
-your PR targets your fork's main, not the module's
-repository. Set your Git identity locally in the new clone, as Task 1 shows.
+Work in your own fork. You can review your own diff in the reviewer role
+and record feedback in your notes, or exchange reviews with a willing
+partner. Your PR targets your fork's main. Set your Git identity locally
+in the new clone, as Task 1 shows.
 
-If the link or GitHub is unavailable, extract the ZIP and follow Task 1's
-local setup. Practise with local branches and review notes, then complete
-the online fork/PR steps with a demonstrator when access is restored.
+The ZIP is an optional offline backup. If GitHub is unavailable, extract
+it and follow Task 1's local setup. Practise with local branches and review
+notes, then complete the online fork/PR steps with a demonstrator when
+access is restored.
 Keep the hidden `.git` folder when saving your project.
 
 Add your greeting **below the marker, with four spaces of indentation**.
